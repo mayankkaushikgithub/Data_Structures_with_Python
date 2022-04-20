@@ -1,0 +1,24 @@
+Inorder Prorder Postorder
+
+
+PREORDER:  ROOT -> LST  -> RST
+
+INORDER:   LST  -> ROOT -> LST
+
+POSTORDER:  LST -> RST  -> ROOT
+
+
+where LST: Left Sub-Tree & RST: Right Sub-Tree
+
+Ques. The inorder and preorder traversal of a binary tree are
+        Inorder:   d b e a p q r
+        PreOrder:  a b d e q p r
+
+
+    The postorder traversal of the binary tree is:
+     (A) d e b p r q a
+     (B) e d b r p q a
+     (C) e d b p r q a
+     (D) d e p r b q a
+
+Ans. Opn (A)
